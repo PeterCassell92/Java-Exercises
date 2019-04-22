@@ -19,7 +19,7 @@ class Brieyonce {
 
 }
 
-public class ch4ex11{
+public class ch4ex12{
 	public static void main(String[] args){
 		Brieyonce a1 = new Brieyonce();
 		int x =0;
