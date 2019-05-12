@@ -1,0 +1,3 @@
+#Build and execute the project
+javac -classpath src src/ch5ex3.java src/simple
+java -classpath src ch5ex3
